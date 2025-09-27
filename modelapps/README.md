@@ -1,4 +1,4 @@
-# Power Apps Model-driven App Samples
+# Power Apps - Model-driven App Samples
 
 This repository contains samples that demonstrate different scenarios for using Power Apps to build Canvas Apps.
 
@@ -6,13 +6,13 @@ This repository contains samples that demonstrate different scenarios for using 
 
 Please make sure to read the documentation in the assets folder. If you are still having an issue please post a comment and we will get back to you as soon as we can.
 
-## Additional resources for Power Apps
+## Additional resources for Power Apps - Model-driven Apps
 
-- Power Apps [Power Platform Community](https://community.powerplatform.com/forums/thread/?groupid=b5652dc6-2c99-4e33-8b6f-45be4a896a40)
+- Power Apps - Model-driven Apps [Power Platform Community](https://community.powerplatform.com/forums/thread/?groupid=b5652dc6-2c99-4e33-8b6f-45be4a896a40)
 
 ## Using the samples
 
-For more info about how to use the Power Apps Samples, please read the README.md file in every sample directory and look in the assets folders for documentation covering the sample
+For more info about how to use the Power Apps - Model-driven Samples, please read the README.md file in every sample directory and look in the assets folders for documentation covering the sample
 
 ## Importing the samples
 
