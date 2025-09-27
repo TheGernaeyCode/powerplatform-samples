@@ -1,6 +1,6 @@
 # Power Automate Samples
 
-This repository contains samples that demonstrate different scenarios for using Power Automate witin the Power Platform.
+This repository contains samples that demonstrate different scenarios for using Power Automate with the Power Platform and covers both Cloud and Desktop.
 
 ## Sample migration
 
