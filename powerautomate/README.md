@@ -2,11 +2,9 @@
 
 This repository contains samples that demonstrate different scenarios for using Power Automate with the Power Platform and covers both Cloud and Desktop.
 
-## Sample migration
-
 ## Have issues or questions?
 
-Please use following logic on submitting your questions or issues to right location to ensure that they are noticed and addressed as soon as possible.
+Please make sure to read the documentation in the assets folder. If you are still having an issue please post a comment and we will get back to you as soon as we can.
 
 ## Additional resources for Power Automate Cloud and Power Automate Desktop
 
