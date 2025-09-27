@@ -25,7 +25,7 @@ These solutions are brought to you by <strong>Michael E. Gernaey Jr</strong> as 
 
 ## Training
 
-- I am an MCT certified trainer and have over 4 decades of working with Microsoft Products, training thousands of global Microsoft FTE, ISVs, Partners and customers, as well as helping to shape the products themselves working and leading both in MSIT and on different product teams as a Sr Director / Prinicipal Manager & Lead Enterprise / Solution Architect
+- I am an MCT certified trainer and have over 4 decades of working with Microsoft Products, training thousands of global Microsoft FTE, ISVs, Partners and customers, as well as helping to shape the products themselves working and leading both in MSIT and on different product teams, including D365 / Power Platform, as a Sr Director / Prinicipal Manager & Lead Enterprise / Solution Architect
 
 - You can check out my certificates both on LinkedIn and look my up on Microsoft Learn
 
