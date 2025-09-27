@@ -35,7 +35,7 @@ Version|Date|Comments
 
 ### Instructions
 
-* Review the Excel GroupBy Example Phase 1.docx that covers the entire flow from a functional and technical perspective
+* Review the Excel GroupBy Example Phase 1.docx that covers the entire flow from a functional and technical perspective in the assest folder as your first step
 * Please use the workitems.xlsx in the assets folder for your Attachment
 * Please use the term workitems for your Emails Subject. This is the email that you will send yourself(or whatever emai you configure) to trigger your flow
 * Change the Connections and Folder pointers in the Flow to point to your own SharePoint
@@ -44,7 +44,22 @@ Version|Date|Comments
 * Change the Outlook Send Email, Email Addresses in the Catch, Success and if no (false) condition/action areas to send to whomever you like.
 * These are emails that are intended to tell operations the status of the flow as part of the "business requirements in the document"
 * NOTE: the 10 minute delay is due to the Excel locking issue it will go from seconds to upwards of 10 minutes when used with SharePoint
-
+* Please use the following <strong>environment variables</strong>. Please read about them more in the instructions in the asset folder
+* <strong>Attachment_File_Creation_Folder</strong> : This is the path to the location where the attachment will be saved (Example: /ExcelExamples/GroupBy/WorkItems) 
+* <strong>Email_Subject_Filter_String</strong> : This is the email subject filter used to validate we want to process this email (Example: WorkItems)
+* <strong>Email_Attachment_Name</strong> : The name of the attachment file (Example workitems.xlsx)
+* <strong>Excel_File_Location_Uri_For_List_Rows</strong> : In the Excel List Rows, the Uri to where the new file to process is in SharePoint (Example: GroupBy/WorkItems/)
+* <strong>Excel_Table_Name</strong> : The Excel Table Name (Example: WorkItems)
+* <strong>Notification_Email_Address</strong> : The pretend operations email address (Example: myopts@mytestopts.com) 
+* <strong>SharePoint_Document_Library_Metadata_Id</strong> : This is the actual Meta-Data Id of the document library for the Excel List Rows. This requires more information and is detailed in the manual but you can get it like this:
+-Get your full url to your site
+-Append the following as such 
+<strong>https://mysharpeointhostname.sharepoint.com/sites/TGC/_api/v2.1/drives</strong>
+-This will generate a JSON. You must look into the JSON and grab the document library Id, not the GUID, for the library you want to use. This is another learning exercise as well :-)
+(Example: b!GIfmRAVVw0mcFoQzYGhW-r3_yytMP19AvCd-ZdKecbLx0LomIb1QQJRqbnEl1-ia), noting  that this is NOT the GUID, its the ID.
+* <strong>SharePoint_Processed_Folder_Target_Location</strong> : The sharepoint folder path to store successfully processed files (Example: /ExcelExamples/GroupBy/Processed)
+* <strong>Source_SharePoint_Url</strong> : The Source SharePoint Url to store the files and process them in (Example https://mysharepoint.com/sites/TGC)
+* <strong>Target_SharePoint_Url</strong> : The Target SharePoint Url to store the processed files (Example https://mytargetsharepoint.com/sites/TGC)
 ## Minimal Path to Awesome
 
 ### Import Solution
