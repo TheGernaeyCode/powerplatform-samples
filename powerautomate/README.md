@@ -24,9 +24,9 @@ verify what is required.
 These solutions are brought to you by <strong>Michael E. Gernaey Jr</strong> as part of <strong>The Gernaey Code</strong> sponsored by <strong>Gernaey Software L.L.C</strong? 
 
 If you are looking to hire Michael, please contact us at 
-* Website: (https://www.gernaeysoftware.com
-* Email: mailto:info@gernaeysoftware.com 
-* LinkedIn: https://www.linkedin.com/in/michaelgernaey
+* Website: <a href="https://www.gernaeysoftware.com">Gernaey Software</a>
+* Email: <a href="mailto:info@gernaeysoftware.com">info@gernaeysoftware.com</a> 
+* LinkedIn: <a href="https://www.linkedin.com/in/michaelgernaey">Michael Gernaey</a>
 
 ## Code of Conduct
 
