@@ -6,7 +6,7 @@ This repository contains samples that demonstrate different scenarios for using 
 
 Please make sure to read the documentation in the assets folder. If you are still having an issue please post a comment and we will get back to you as soon as we can.
 
-## Additional resources for Power Automate Cloud and Power Automate Desktop
+## Additional resources for Power Apps
 
 - Power Apps [Power Platform Community](https://community.powerplatform.com/forums/thread/?groupid=b5652dc6-2c99-4e33-8b6f-45be4a896a40)
 
