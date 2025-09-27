@@ -21,12 +21,20 @@ verify what is required.
 
 ## Authors
 
-These solutions are brought to you by <strong>Michael E. Gernaey Jr</strong> as part of <strong>The Gernaey Code</strong> sponsored by <strong>Gernaey Software L.L.C</strong? 
+These solutions are brought to you by <strong>Michael E. Gernaey Jr</strong> as part of <strong>The Gernaey Code</strong> sponsored by <strong>Gernaey Software L.L.C</strong>
 
-If you are looking to hire Michael, please contact us at 
-* Website: <a href="https://www.gernaeysoftware.com">Gernaey Software</a>
-* Email: <a href="mailto:info@gernaeysoftware.com">info@gernaeysoftware.com</a> 
-* LinkedIn: <a href="https://www.linkedin.com/in/michaelgernaey">Michael Gernaey</a>
+## Training
+
+- I am an MCT certified trainer and have over 4 decades of working with Microsoft Products, training thousands of global Microsoft FTE, ISVs, Partners and customers, as well as helping to shape the products themselves working and leading both in MSIT and on different product teams as a Sr Director / Prinicipal Manager & Lead Enterprise / Solution Architect
+
+- You can check out my certificates both on LinkedIn and look my up on Microsoft Learn
+
+## Contact Methods
+
+If you are looking to hire Gernaey Software or Michael Directly, please contact us at:
+- Website [Gernaey Software](https://www.gernaeysoftware.com)
+- Email [Gernaey Software](mailto:info@gernaeysoftware.com)
+- LinkedIn [Michael Gernaey](https://www.linkedin.com/in/michaelgernaey)
 
 ## Code of Conduct
 
