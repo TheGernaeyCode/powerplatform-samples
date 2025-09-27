@@ -12,11 +12,11 @@ Please make sure to read the documentation in the assets folder. If you are stil
 
 ## Using the samples
 
-For more info about how to use the Power Automate Samples, please read the README.md file in every sample directory and look in the assets folders for documentation covering the sample
+For more info about how to use the Power Automate Samples, <strong>please read the README.md file in every sample directory and look in the assets folders for documentation covering the sample</strong>
 
 ## Importing the samples
 
-Each sample has a solution folder that contains the zip file necessary to import into your environment. In many cases you will need to update the environment variables. Check the documentation to 
+Each sample has a <strong>solution folder</strong> that contains the zip file necessary to import into your environment. In many cases you will need to update the environment variables during import. Check the documentation to 
 verify what is required.
 
 ## Authors
