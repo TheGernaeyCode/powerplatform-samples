@@ -1,18 +1,18 @@
-# Power Automate Samples
+# Power Apps - Connector Samples
 
-This repository contains samples that demonstrate different scenarios for using Power Automate with the Power Platform and covers both Cloud and Desktop.
+This repository contains samples that demonstrate different scenarios for building Connectors for Power Apps.
 
 ## Have issues or questions?
 
 Please make sure to read the documentation in the assets folder. If you are still having an issue please post a comment and we will get back to you as soon as we can.
 
-## Additional resources for Power Automate Cloud and Power Automate Desktop
+## Additional resources for Power Apps - Connectors
 
-- Power Automate [Power Platform Community](https://community.powerplatform.com/forums/thread/?groupid=46ce02a3-e1a7-4176-81fc-d93a4001d287)
+- Power Apps - Connectors [Power Platform Community](https://community.powerplatform.com/forums/thread/?&discussionforumid=60873f76-ad50-420a-8ae5-38afd4c4d7b8)
 
 ## Using the samples
 
-For more info about how to use the Power Automate Samples, please read the README.md file in every sample directory and look in the assets folders for documentation covering the sample
+For more info about how to use the Power Apps - Connector Samples, please read the README.md file in every sample directory and look in the assets folders for documentation covering the sample
 
 ## Importing the samples
 
@@ -21,12 +21,20 @@ verify what is required.
 
 ## Authors
 
-These solutions are brought to you by <strong>Michael E. Gernaey Jr</strong> as part of <strong>The Gernaey Code</strong> sponsored by <strong>Gernaey Software L.L.C</strong? 
+These solutions are brought to you by <strong>Michael E. Gernaey Jr</strong> as part of <strong>The Gernaey Code</strong> sponsored by <strong>Gernaey Software L.L.C</strong>
 
-If you are looking to hire Michael, please contact us at 
-* Website: <a href="https://www.gernaeysoftware.com">Gernaey Software</a>
-* Email: <a href="mailto:info@gernaeysoftware.com">info@gernaeysoftware.com</a> 
-* LinkedIn: <a href="https://www.linkedin.com/in/michaelgernaey">Michael Gernaey</a>
+## Training
+
+- I am an MCT certified trainer and have over 4 decades of working with Microsoft Products, training thousands of global Microsoft FTE, ISVs, Partners and customers, as well as helping to shape the products themselves working and leading both in MSIT and on different product teams, including D365 / Power Platform, as a Sr Director / Prinicipal Manager & Lead Enterprise / Solution Architect
+
+- You can check out my certificates both on LinkedIn and look my up on Microsoft Learn
+
+## Contact Methods
+
+If you are looking to hire Gernaey Software or Michael Directly, please contact us at:
+- Website [Gernaey Software](https://www.gernaeysoftware.com)
+- Email [Gernaey Software](mailto:info@gernaeysoftware.com)
+- LinkedIn [Michael Gernaey](https://www.linkedin.com/in/michaelgernaey)
 
 ## Code of Conduct
 
