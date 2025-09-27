@@ -1,4 +1,4 @@
-# Power Apps Canvas App Samples
+# Power Apps - Canvas App Samples
 
 This repository contains samples that demonstrate different scenarios for using Power Apps to build Canvas Apps.
 
@@ -6,13 +6,13 @@ This repository contains samples that demonstrate different scenarios for using 
 
 Please make sure to read the documentation in the assets folder. If you are still having an issue please post a comment and we will get back to you as soon as we can.
 
-## Additional resources for Power Apps
+## Additional resources for Power Apps - Canvas Apps
 
-- Power Apps [Power Platform Community](https://community.powerplatform.com/forums/thread/?groupid=b5652dc6-2c99-4e33-8b6f-45be4a896a40)
+- Power Apps - Canvas Apps [Power Platform Community](https://community.powerplatform.com/forums/thread/?groupid=b5652dc6-2c99-4e33-8b6f-45be4a896a40)
 
 ## Using the samples
 
-For more info about how to use the Power Apps Samples, please read the README.md file in every sample directory and look in the assets folders for documentation covering the sample
+For more info about how to use the Power Apps - Canvas App Samples, please read the README.md file in every sample directory and look in the assets folders for documentation covering the sample
 
 ## Importing the samples
 
@@ -25,7 +25,7 @@ These solutions are brought to you by <strong>Michael E. Gernaey Jr</strong> as 
 
 ## Training
 
-- I am an MCT certified trainer and have over 4 decades of working with Microsoft Products, training thousands of global Microsoft FTE, ISVs, Partners and customers, as well as helping to shape the products themselves working and leading both in MSIT and on different product teams as a Sr Director / Prinicipal Manager & Lead Enterprise / Solution Architect
+- I am an MCT certified trainer and have over 4 decades of working with Microsoft Products, training thousands of global Microsoft FTE, ISVs, Partners and customers, as well as helping to shape the products themselves working and leading both in MSIT and on different product teams, including D365 / Power Platform, as a Sr Director / Prinicipal Manager & Lead Enterprise / Solution Architect
 
 - You can check out my certificates both on LinkedIn and look my up on Microsoft Learn
 
