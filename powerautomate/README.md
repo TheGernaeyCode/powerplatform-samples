@@ -18,7 +18,9 @@ For more info about how to use the Power Automate Samples, please read the READM
 
 These solutions are brought to you by Michael E. Gernaey Jr as part of TheGernaeyCode sponsored by Gernaey Software L.L.C (https://www.gernaeysoftware.com)
 
-If you are looking to hire Michael, please contact us at  mailto:info@gernaeysoftware.com
+If you are looking to hire Michael, please contact us at 
+(Email) mailto:info@gernaeysoftware.com 
+(LinkedIn) https://www.linkedin.com/in/michaelgernaey
 
 ## Code of Conduct
 
