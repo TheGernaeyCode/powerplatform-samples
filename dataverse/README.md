@@ -12,7 +12,7 @@ Please make sure to read the documentation in the assets folder. If you are stil
 
 ## Using the samples
 
-For more info about how to use the Power Apps - Dataverse Samples, please read the README.md file in every sample directory and look in the assets folders for documentation covering the sample
+For more info about how to use the Power Apps - Dataverse Samples, <strong>please read the README.md file in every sample directory and look in the assets folders for documentation covering the sample</strong>
 
 ## Importing the samples
 
