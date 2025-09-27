@@ -1,6 +1,6 @@
 # Power Apps - Model-driven App Samples
 
-This repository contains samples that demonstrate different scenarios for using Power Apps to build Canvas Apps.
+This repository contains samples that demonstrate different scenarios for using Power Apps to build Model-driven Apps.
 
 ## Have issues or questions?
 
