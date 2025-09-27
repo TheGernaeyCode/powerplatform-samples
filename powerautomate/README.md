@@ -14,13 +14,19 @@ Please make sure to read the documentation in the assets folder. If you are stil
 
 For more info about how to use the Power Automate Samples, please read the README.md file in every sample directory and look in the assets folders for documentation covering the sample
 
+## Importing the samples
+
+Each sample has a solution folder that contains the zip file necessary to import into your environment. In many cases you will need to update the environment variables. Check the documentation to 
+verify what is required.
+
 ## Authors
 
-These solutions are brought to you by Michael E. Gernaey Jr as part of TheGernaeyCode sponsored by Gernaey Software L.L.C (https://www.gernaeysoftware.com)
+These solutions are brought to you by <strong>Michael E. Gernaey Jr</strong> as part of <strong>The Gernaey Code</strong> sponsored by <strong>Gernaey Software L.L.C</strong? 
 
 If you are looking to hire Michael, please contact us at 
-(Email) mailto:info@gernaeysoftware.com 
-(LinkedIn) https://www.linkedin.com/in/michaelgernaey
+* Website: (https://www.gernaeysoftware.com
+* Email: mailto:info@gernaeysoftware.com 
+* LinkedIn: https://www.linkedin.com/in/michaelgernaey
 
 ## Code of Conduct
 
