@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{7E26E95A-FBC2-4506-9790-269AAAF6DBC3}|GetRowCounts.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E26E95A-FBC2-4506-9790-269AAAF6DBC3}|GetRowCounts.csproj|d:\\ggit\\tgc\\powerplatform-samples\\dataverse\\getrowcounts\\writerowcolumnsmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E26E95A-FBC2-4506-9790-269AAAF6DBC3}|GetRowCounts.csproj|D:\\ggit\\tgc\\powerplatform-samples\\dataverse\\GetRowCounts\\writerowcolumnsmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E26E95A-FBC2-4506-9790-269AAAF6DBC3}|GetRowCounts.csproj|solutionrelative:writerowcolumnsmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,8 +34,7 @@
               "RelativeToolTip": "WriteRowColumnsMetaData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T20:38:37.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T20:38:37.147Z"
             },
             {
               "$type": "Document",
